@@ -1,0 +1,7 @@
+c:\users\gbutler\documents\visual studio 2015\Projects\DotNetExtensions\DotNetExtensions.Tests\bin\Debug\DotNetExtensions.Tests.dll
+c:\users\gbutler\documents\visual studio 2015\Projects\DotNetExtensions\DotNetExtensions.Tests\bin\Debug\DotNetExtensions.Tests.pdb
+c:\users\gbutler\documents\visual studio 2015\Projects\DotNetExtensions\DotNetExtensions.Tests\bin\Debug\DotNetExtensions.dll
+c:\users\gbutler\documents\visual studio 2015\Projects\DotNetExtensions\DotNetExtensions.Tests\bin\Debug\DotNetExtensions.pdb
+c:\users\gbutler\documents\visual studio 2015\Projects\DotNetExtensions\DotNetExtensions.Tests\obj\Debug\DotNetExtensions.Tests.csprojResolveAssemblyReference.cache
+c:\users\gbutler\documents\visual studio 2015\Projects\DotNetExtensions\DotNetExtensions.Tests\obj\Debug\DotNetExtensions.Tests.dll
+c:\users\gbutler\documents\visual studio 2015\Projects\DotNetExtensions\DotNetExtensions.Tests\obj\Debug\DotNetExtensions.Tests.pdb
